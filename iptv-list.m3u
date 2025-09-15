@@ -1,0 +1,30 @@
+#EXTINF:-1 tvg-id="TF1.fr@HD" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment",TF1 HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr@SD" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="Movies",TF1 Series Films (1080p)
+https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
+#EXTINF:-1 tvg-id="France2.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" group-title="General",France 2 HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
+#EXTINF:-1 tvg-id="France3.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png" group-title="General",France 3 HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
+#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png" group-title="Kids",France 4 (1080p) [Geo-blocked]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france4.m3u8
+#EXTINF:-1 tvg-id="France5.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png" group-title="General",France 5 HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
+#EXTINF:-1 tvg-id="France24.fr@French" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="News",France 24 French (1080p)
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="M6.fr@SD" tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="Entertainment",M6 [Geo-blocked]
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+#EXTINF:-1 tvg-id="TMC.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/512px-TMC_logo.svg.png" group-title="General",TMC HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+#EXTINF:-1 tvg-id="6ter.fr@SD" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="Entertainment",6ter (1080p) [Geo-blocked]
+https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/langfr-350px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="Undefined",RMC Découverte (1080p)
+https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://i.postimg.cc/MpjZFqGF/rmcstory.png" group-title="Undefined",RMC Story (1080p)
+https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
+#EXTINF:-1 tvg-id="Cherie25.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Ch%C3%A9rie_25.svg/512px-Logo_Ch%C3%A9rie_25.svg.png" group-title="General",Cherie 25
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+#EXTINF:-1 tvg-id="RTL9.lu@SD" tvg-logo="https://i.imgur.com/nFqjVNW.png" group-title="Entertainment",RTL9
+https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
+#EXTINF:-1 tvg-id="TiVi5Monde.fr" tvg-logo="https://i.postimg.cc/L8kHKJv7/tivi5monde.png" group-title="Undefined",TiVi5 Monde [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
